@@ -95,7 +95,7 @@ export default function LoginPage() {
               Being Zero 
             </Text>
           </Text>
-          <Stack align="center" spacing="lg">
+          <Stack align="center" gap="lg">
             <GoogleLogin
               width={250}
               theme="filled_black"
